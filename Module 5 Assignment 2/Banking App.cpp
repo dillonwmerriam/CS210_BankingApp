@@ -26,7 +26,7 @@ void printWhiteSpaces(int yearEndBalance, int interestEarned) {
     
     //log10(num)+1 = # of digits it contains (not including the 2 decimals, so add those 4)
     //add 2 decimal points and 2 dollar signs and this = numChars.
-    int numChars = log10(yearEndBalance) + log10(interestEarned) + 9;
+    int numChars = floor(log10(yearEndBalance)) + floor(log10(interestEarned)) + 9;
     int numSpaces;
     string whiteSpaces;
     
