@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Module 5 Assignment 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Banking App.cpp
+C:\Users\merri\source\repos\Module 5 Assignment 2\Module 5 Assignment 2\Banking App.cpp(29,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\merri\source\repos\Module 5 Assignment 2\Module 5 Assignment 2\Banking App.cpp(43,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\merri\source\repos\Module 5 Assignment 2\Module 5 Assignment 2\Banking App.cpp(43,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\merri\source\repos\Module 5 Assignment 2\Module 5 Assignment 2\Banking App.cpp(166,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Module 5 Assignment 2.vcxproj -> C:\Users\merri\source\repos\Module 5 Assignment 2\x64\Debug\IT_210_BankingApp.exe
